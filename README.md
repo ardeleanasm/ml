@@ -1,4 +1,4 @@
-#BUILD
+# BUILD
 
 docker build -t python .
 
